@@ -1,4 +1,5 @@
 """Classes for melon orders."""
+class AbstractMelonOrder():
 
 
 class DomesticMelonOrder():
